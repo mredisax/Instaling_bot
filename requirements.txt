@@ -1,0 +1,4 @@
+pylint==2.3.1
+selenium==3.141.0
+virtualenv==16.7.5
+
