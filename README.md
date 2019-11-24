@@ -14,3 +14,8 @@ config.txt
 login
 pasword
 ```
+### Tech
+
+```
+pip install selenium
+```
