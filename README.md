@@ -16,7 +16,7 @@ Instaling_bot performs flashcards for you
 config.txt 
 ```
 login
-pasword
+password
 ```
 ### Tech
 - Chromedriver
