@@ -10,7 +10,7 @@ Instaling_bot performs flashcards for you
    ```
    pip install selenium
    ```
-  - In config.txt add yoru login and password
+  - In config.txt add your login and password
 
 
 config.txt 
